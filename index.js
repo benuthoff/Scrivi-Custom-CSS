@@ -3,3 +3,4 @@
 // by Ben Uthoff
 
 // Code here.
+console.log('Addon loaded!');
